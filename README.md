@@ -7,10 +7,10 @@ Hi! My name is Paola Silva, everyone knows me as Paito. I live in Santiago de Ch
 ## About me
 
 <br>
-- 🥰I enjoy learning new things, so I am always changing hobbies. 
-- 🎶 I love music, so I sing and play the piano.
-- 📒I make personalized agendas.
-- 💅🏻 I am a manicurist.
+- 🥰I enjoy learning new things, so I am always changing hobbies. <br>
+- 🎶 I love music, so I sing and play the piano. <br>
+- 📒I make personalized agendas. <br>
+- 💅🏻 I am a manicurist. <br>
 
 ### Languages
 
